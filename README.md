@@ -19,7 +19,7 @@
 ## 📊 Linguagens mais usadas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight&cache_seconds=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </div>
 
 ---
@@ -27,7 +27,7 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbgomes0524&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbgomes0524&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
 </div>
 
 ---
