@@ -16,19 +16,10 @@
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 Linguagens mais usadas (Automático)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-</div>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbgomes0524&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-</div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight" width="424"/>
 
 ---
 
@@ -43,7 +34,7 @@
 ## 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,arduino,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,arduino,git"/>
 </div>
 
 ---
