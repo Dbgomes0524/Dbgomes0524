@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Linguagens mais usadas (Automático)
+## 📊 Linguagens mais usadas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight&cache_seconds=10"/>
@@ -43,7 +43,7 @@
 ## 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,arduino,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,arduino,git" />
 </div>
 
 ---
