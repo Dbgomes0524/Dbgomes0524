@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Linguagens mais usadas (Automático)
+## 📊 Linguagens mais usadas
 
 <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbgomes0524&layout=compact&theme=tokyonight" width="424"/>
